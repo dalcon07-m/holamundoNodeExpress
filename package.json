@@ -1,0 +1,15 @@
+{
+  "name": "hola_mun",
+  "version": "1.0.0",
+  "description": "Hello World with NodeJs and Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "David",
+    "Macias"
+  ],
+  "author": "David Macias",
+  "license": "ISC"
+}
